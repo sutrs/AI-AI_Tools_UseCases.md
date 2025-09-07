@@ -1,6 +1,3 @@
-# AI_Tools_UseCases
-
-
 # AI Tools and Use Cases
 
 ## [Wispr Flow](https://wisprflow.ai/)
